@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomDog_Retrofit</string>
+    <string name="get_random_dog_image">get_random_dog_image</string>
+</resources>
