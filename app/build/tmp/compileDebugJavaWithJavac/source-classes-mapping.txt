@@ -1,0 +1,2 @@
+com/example/randomdog_retrofit/BuildConfig.java
+ com.example.randomdog_retrofit.BuildConfig
